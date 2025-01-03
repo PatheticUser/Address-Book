@@ -70,3 +70,5 @@ After launching the program, you’ll see a menu with options:
 - **Sorting**: Sort contacts alphabetically or by other criteria
 
 ---
+
+### **If you find this project helpful, consider giving it a star!** ⭐
